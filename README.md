@@ -8,14 +8,16 @@ This repository documents practical security work, including the methodology, an
 
 ### OWASP Juice Shop
 
-| Challenge                                            | Category                              | Status   |
-| ---------------------------------------------------- | ------------------------------------- | -------- |
-| [Blockchain Hype](juice-shop/blockchain-hype/)       | Cryptography / Information Disclosure |  Solved |
-| [Retrieve Blueprint](juice-shop/retrieve-blueprint/) | Sensitive Data Exposure               |  Solved |
+| Challenge                                                | Category                              | Status   |
+| -------------------------------------------------------- | ------------------------------------- | -------- |
+| [Blockchain Hype](juice-shop/blockchain-hype/)           | Cryptography / Information Disclosure |  Solved |
+| [Retrieve Blueprint](juice-shop/retrieve-blueprint/)     | Sensitive Data Exposure               |  Solved |
+| [Ephemeral Accountant](juice-shop/ephemeral-accountant/) | Injection                             |  Solved |
 
 ## Focus Areas
 
 * Web Security
+* Injection
 * Information Disclosure
 * Cryptography
 * Reverse Engineering
@@ -47,6 +49,10 @@ cybersecurity-writeups/
     │       └── blockchain-hype-solved.png
     │
     └── retrieve-blueprint/
+        ├── README.md
+        └── images/
+
+    └── ephemeral-accountant/
         ├── README.md
         └── images/
 ```
