@@ -81,7 +81,7 @@ The Juice Shop challenge confirmed:
 
 ## Evidence
 
-![Blockchain Hype - Successfully Solved](../../blockchain-hype-solved.png)
+![Blockchain Hype - Successfully Solved](images/blockchain-hype-solved.png)
 
 The original `encrypt.pyc` file used during the analysis is included in this repository.
 
