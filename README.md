@@ -8,9 +8,10 @@ This repository documents practical security work, including the methodology, an
 
 ### OWASP Juice Shop
 
-| Challenge                                      | Category                              | Status   |
-| ---------------------------------------------- | ------------------------------------- | -------- |
-| [Blockchain Hype](juice-shop/blockchain-hype/) | Cryptography / Information Disclosure |  Solved |
+| Challenge                                            | Category                              | Status   |
+| ---------------------------------------------------- | ------------------------------------- | -------- |
+| [Blockchain Hype](juice-shop/blockchain-hype/)       | Cryptography / Information Disclosure |  Solved |
+| [Retrieve Blueprint](juice-shop/retrieve-blueprint/) | Sensitive Data Exposure               |  Solved |
 
 ## Focus Areas
 
@@ -38,12 +39,16 @@ cybersecurity-writeups/
 ├── README.md
 │
 └── juice-shop/
-    └── blockchain-hype/
+    ├── blockchain-hype/
+    │   ├── README.md
+    │   ├── decrypt.py
+    │   ├── encrypt.pyc
+    │   └── images/
+    │       └── blockchain-hype-solved.png
+    │
+    └── retrieve-blueprint/
         ├── README.md
-        ├── decrypt.py
-        ├── encrypt.pyc
         └── images/
-            └── blockchain-hype-solved.png
 ```
 
 ## Disclaimer
