@@ -20,7 +20,3 @@ The relevant product is:
 
 ```text
 OWASP Juice Shop Logo (3D-printed)
-
-## Evidence
-
-![Retrieve Blueprint - Successfully Solved](images/challenge-solved.png)
