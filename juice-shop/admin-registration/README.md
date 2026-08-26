@@ -149,7 +149,7 @@ Admin Registration
 The successful challenge notification is included in:
 
 ```text
-images/challenge-solved.png
+images/challenge-solvedadmin.png
 ```
 
 ## 9. Takeaway
