@@ -8,16 +8,18 @@ This repository documents practical security work, including the methodology, an
 
 ### OWASP Juice Shop
 
-| Challenge                                                | Category                              | Status   |
-| -------------------------------------------------------- | ------------------------------------- | -------- |
-| [Blockchain Hype](juice-shop/blockchain-hype/)           | Cryptography / Information Disclosure |  Solved |
-| [Retrieve Blueprint](juice-shop/retrieve-blueprint/)     | Sensitive Data Exposure               |  Solved |
-| [Ephemeral Accountant](juice-shop/ephemeral-accountant/) | Injection                             |  Solved |
+| Challenge                                                                                                             | Category                                  | Status |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------ |
+| [Blockchain Hype](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/blockchain-hype)           | Cryptography / Information Disclosure     | Solved |
+| [Retrieve Blueprint](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/retrieve-blueprint)     | Sensitive Data Exposure                   | Solved |
+| [Ephemeral Accountant](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/ephemeral-accountant) | Injection                                 | Solved |
+| [Admin Registration](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/admin-registration)     | Improper Access Control / Mass Assignment | Solved |
 
 ## Focus Areas
 
 * Web Security
 * Injection
+* Access Control
 * Information Disclosure
 * Cryptography
 * Reverse Engineering
@@ -32,30 +34,6 @@ This repository documents practical security work, including the methodology, an
 * Docker
 * Python
 * OWASP Juice Shop
-
-## Repository Structure
-
-```text
-cybersecurity-writeups/
-│
-├── README.md
-│
-└── juice-shop/
-    ├── blockchain-hype/
-    │   ├── README.md
-    │   ├── decrypt.py
-    │   ├── encrypt.pyc
-    │   └── images/
-    │       └── blockchain-hype-solved.png
-    │
-    └── retrieve-blueprint/
-        ├── README.md
-        └── images/
-
-    └── ephemeral-accountant/
-        ├── README.md
-        └── images/
-```
 
 ## Disclaimer
 
