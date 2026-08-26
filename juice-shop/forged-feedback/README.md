@@ -90,7 +90,7 @@ This demonstrates broken access control because the application does not properl
 
 The successful request and response were captured as evidence:
 
-![Forged Feedback solved](images/forged-feedback-solved.png)
+![Forged Feedback solved](images/solved.png)
 
 ---
 
