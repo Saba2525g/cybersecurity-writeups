@@ -10,10 +10,11 @@ This repository documents practical security work, including the methodology, an
 
 | Challenge                                                                                                             | Category                                  | Status |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------ |
-| [Blockchain Hype](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/blockchain-hype)           | Cryptography / Information Disclosure     | Solved |
-| [Retrieve Blueprint](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/retrieve-blueprint)     | Sensitive Data Exposure                   | Solved |
-| [Ephemeral Accountant](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/ephemeral-accountant) | Injection                                 | Solved |
-| [Admin Registration](https://github.com/Saba2525g/cybersecurity-writeups/blob/main/juice-shop/admin-registration)     | Improper Access Control / Mass Assignment | Solved |
+| [Blockchain Hype](https://github.com/Saba2525g/cybersecurity-writeups/tree/main/juice-shop/blockchain-hype)           | Cryptography / Information Disclosure     | Solved |
+| [Retrieve Blueprint](https://github.com/Saba2525g/cybersecurity-writeups/tree/main/juice-shop/retrieve-blueprint)     | Sensitive Data Exposure                   | Solved |
+| [Ephemeral Accountant](https://github.com/Saba2525g/cybersecurity-writeups/tree/main/juice-shop/ephemeral-accountant) | Injection                                 | Solved |
+| [Admin Registration](https://github.com/Saba2525g/cybersecurity-writeups/tree/main/juice-shop/admin-registration)     | Improper Access Control / Mass Assignment | Solved |
+| [Forged Feedback](https://github.com/Saba2525g/cybersecurity-writeups/tree/main/juice-shop/forged-feedback)           | Broken Access Control                     | Solved |
 
 ## Focus Areas
 
